@@ -1,0 +1,1 @@
+#### Empty Project With Nextjs Typescript Tailwindcss And Prisma 
